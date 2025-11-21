@@ -1,0 +1,35 @@
+
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    container_name: sqlserver
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Comeyuca06
+    ports:
+      - "1433:1433"
+    volumes:
+      - sql_data:/var/opt/mssql
+    restart: always
+
+  webapi:
+    image: inventario-webapi:latest
+    build:
+      context: ./PruebaApi
+      dockerfile: Dockerfile
+    container_name: api_backend
+    environment:
+      ConnectionString: "Server=sqlserver,1433;Database=InventoryDB;User Id=SA;Password=Comeyuca06;"
+    ports:
+      - "8080:80"
+    depends_on:
+      - sqlserver
+    restart: always
+
+  
+
+volumes:
+  sql_data:
+
+
+
