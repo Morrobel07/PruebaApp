@@ -27,7 +27,7 @@ function ProductForm() {
         .then((response) => {
           setFormData({
             name: response.data.Name,
-            price: response.data.Price, // Cargar el precio desde la API
+            price: response.data.Price,
             stock: response.data.Stock,
           });
         })
@@ -38,7 +38,7 @@ function ProductForm() {
           setLoading(false);
         });
     }
-  }, [isEdit, id]); // Corregido: La sintaxis del array de dependencias era incorrecta
+  }, [isEdit, id]);
 
   const handleChange = (e) => {
     const { name, value, type } = e.target;
@@ -53,7 +53,7 @@ function ProductForm() {
     setLoading(true);
 
     const dataToSend = {
-      name: formData.name, // Corregido: Usar propiedades en minúscula del estado
+      name: formData.name,
       price: formData.price,
       stock: formData.stock,
     };
@@ -75,7 +75,6 @@ function ProductForm() {
       });
   };
 
-  // Muestra un spinner de carga si se están cargando datos para editar
   if (loading && isEdit) {
     return (
       <div
@@ -90,7 +89,6 @@ function ProductForm() {
   }
 
   return (
-    // Contenedor para centrar el formulario y limitar su ancho
     <div className="mx-auto" style={{ maxWidth: "600px" }}>
       <h2 className="h2 mb-4 text-center">
         {isEdit ? "Editar Producto" : "Crear Producto"}

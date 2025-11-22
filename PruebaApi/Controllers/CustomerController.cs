@@ -41,7 +41,6 @@ namespace PruebaApi.Controllers
                 return BadRequest(ModelState);
             }
 
-            // Validación de unicidad de Name (siguiendo el patrón de Product)
             if (context.Customers.Any(c => c.Name == customerDto.Name))
             {
                 ModelState.AddModelError("Name", "Ya existe un cliente con este nombre.");

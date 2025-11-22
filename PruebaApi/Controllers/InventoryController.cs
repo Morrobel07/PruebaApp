@@ -16,7 +16,6 @@ namespace PruebaApi.Controllers
     {
         private Contextdb context = new Contextdb();
 
-        // GET api/inventory?productId=X (Historial de movimientos)
         [HttpGet]
         [Route("")]
         public IHttpActionResult GetInventory([FromUri] int? productId = null)
