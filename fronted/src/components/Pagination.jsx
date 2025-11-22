@@ -1,7 +1,7 @@
 import React from "react";
 
 function Pagination({ currentPage, totalPages, onPageChange }) {
-  if (!totalPages || totalPages <= 1) return null; // No mostrar paginación si solo hay una página
+  // if (!totalPages || totalPages <= 1) return null; // No mostrar paginación si solo hay una página
 
   const pages = Array.from({ length: totalPages }, (_, i) => i + 1); // Generar un array de páginas
   // for (let i = 1; i <= totalPages; i++) {

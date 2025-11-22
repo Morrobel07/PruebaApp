@@ -15,8 +15,6 @@ function ProductList() {
     fetchProducts();
   }, [Page]);
 
-  // Función para obtener productos de la API
-  // Se envuelve en useCallback para evitar re-creaciones innecesarias
   const fetchProducts = useCallback(() => {
     setLoading(true);
     api
@@ -36,8 +34,6 @@ function ProductList() {
   }, [Page]);
 
   const handleSoftDelete = (productId) => {
-    if (!window.confirm("Desactivar este Producto")) return;
-
     api
       .delete(`/product/${productId}`)
       .then(() => {
