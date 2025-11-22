@@ -57,70 +57,73 @@ function ProductList() {
   // };
 
   if (loading)
-    return <div className="p-4 text-center">Cargando productos...</div>;
+    return <div className="text-center p-4">Cargando productos...</div>;
 
   return (
-    <div className="p-8">
-      <h2 className="text-2xl font-bold mb-4">Inventario de Productos</h2>
-      <button
-        onClick={() => navigate("/create")}
-        className="mb-4 bg-green-500 text-white p-2 rounded hover:bg-green-600"
-      >
-        Crear Nuevo Producto
-      </button>
+    <div>
+      <div className="d-flex justify-content-between align-items-center mb-4">
+        <h2 className="h3 mb-0">Inventario de Productos</h2>
+        <button onClick={() => navigate("/create")} className="btn btn-success">
+          <i className="bi bi-plus-circle me-2"></i>Crear Nuevo Producto
+        </button>
+      </div>
 
       {products.length === 0 && Page === 1 ? (
-        <p>No hay productos registrados en el inventario.</p>
+        <div className="alert alert-info text-center">
+          No hay productos registrados en el inventario.
+        </div>
       ) : (
-        <ul className="space-y-4">
-          {products.map((product) => (
-            <li
-              key={product.Id}
-              className="p-4 border rounded shadow-sm flex justify-between items-center"
-            >
-              <div>
-                <p className="font-semibold">{product.Name}</p>
-                <p className="text-sm text-gray-600">
-                  ${product.Price.toFixed(2)} | Stock: {product.Stock}
-                </p>
-                <p
-                  className={`text-xs font-medium ${
-                    product.IsActive ? "text-green-500" : "text-red-500"
-                  }`}
-                >
-                  {product.IsActive ? "Activo" : "Inactivo"}
-                </p>
-              </div>
-              <div className="space-x-2">
-                <button
-                  onClick={() => navigate(`/edit/${product.Id}`)}
-                  className="bg-blue-500 text-white p-1 rounded text-sm hover:bg-blue-600"
-                >
-                  Editar
-                </button>
-                {product.IsActive && (
-                  <button
-                    onClick={() => handleSoftDelete(product.Id)}
-                    className="bg-red-500 text-white p-1 rounded text-sm hover:bg-red-600"
-                  >
-                    Desactivar
-                  </button>
-                )}
-
-                {!product.IsActive && (
-                  <button
-                    onClick={() => handleSoftDelete(product.Id)}
-                    className="bg-green-500 text-white p-1 rounded text-sm hover:bg-green-600"
-                  >
-                    Activar
-                  </button>
-                )}
-              </div>
-            </li>
-          ))}
-        </ul>
+        <div className="table-responsive">
+          <table className="table table-hover align-middle">
+            <thead className="table-light">
+              <tr>
+                <th>Nombre</th>
+                <th>Precio</th>
+                <th>Stock</th>
+                <th>Estado</th>
+                <th className="text-end">Acciones</th>
+              </tr>
+            </thead>
+            <tbody>
+              {products.map((product) => (
+                <tr key={product.Id}>
+                  <td>{product.Name}</td>
+                  <td>${product.Price.toFixed(2)}</td>
+                  <td>{product.Stock}</td>
+                  <td>
+                    <span
+                      className={`badge ${
+                        product.IsActive ? "bg-success" : "bg-danger"
+                      }`}
+                    >
+                      {product.IsActive ? "Activo" : "Inactivo"}
+                    </span>
+                  </td>
+                  <td className="text-end">
+                    <button
+                      onClick={() => navigate(`/edit/${product.Id}`)}
+                      className="btn btn-primary btn-sm me-2"
+                    >
+                      Editar
+                    </button>
+                    <button
+                      onClick={() => handleSoftDelete(product.Id)}
+                      className={`btn btn-sm ${
+                        product.IsActive
+                          ? "btn-outline-danger"
+                          : "btn-outline-success"
+                      }`}
+                    >
+                      {product.IsActive ? "Desactivar" : "Activar"}
+                    </button>
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
       )}
-      <div>
+      <div className="d-flex justify-content-center mt-4">
         <Pagination
           currentPage={Page}
           totalPages={totalPages}

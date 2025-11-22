@@ -75,66 +75,83 @@ function ProductForm() {
       });
   };
 
-  if (loading && isEdit)
+  // Muestra un spinner de carga si se están cargando datos para editar
+  if (loading && isEdit) {
     return (
-      <div className="p-4 text-center">Cargando datos para edición...</div>
+      <div
+        className="d-flex justify-content-center align-items-center"
+        style={{ minHeight: "200px" }}
+      >
+        <div className="spinner-border text-primary" role="status">
+          <span className="visually-hidden">Cargando...</span>
+        </div>
+      </div>
     );
+  }
 
   return (
-    <div className="p-8 max-w-lg mx-auto bg-white rounded shadow">
-      <h2 className="text-2xl font-bold mb-6">
+    // Contenedor para centrar el formulario y limitar su ancho
+    <div className="mx-auto" style={{ maxWidth: "600px" }}>
+      <h2 className="h2 mb-4 text-center">
         {isEdit ? "Editar Producto" : "Crear Producto"}
       </h2>
-      <form onSubmit={handleSubmit} className="space-y-4">
-        {/* ... (Campos de formulario, son iguales al ejemplo anterior) ... */}
-        <div>
-          <label className="block font-medium">Nombre</label>
+      <form onSubmit={handleSubmit}>
+        <div className="mb-3">
+          <label htmlFor="name" className="form-label">
+            Nombre del Producto
+          </label>
           <input
             type="text"
+            id="name"
             name="name"
             value={formData.name}
             onChange={handleChange}
             required
-            className="w-full p-2 border rounded"
+            className="form-control"
+            placeholder="Ej: Laptop, Teclado, etc."
           />
         </div>
-        <div>
-          <label className="block font-medium">Precio</label>
+        <div className="mb-3">
+          <label htmlFor="price" className="form-label">
+            Precio
+          </label>
           <input
             type="number"
+            id="price"
             name="price"
             value={formData.price}
             onChange={handleChange}
             step="0.01"
             min="0.01"
             required
-            className="w-full p-2 border rounded"
+            className="form-control"
+            placeholder="0.00"
           />
         </div>
-        <div>
-          <label className="block font-medium">Stock</label>
+        <div className="mb-3">
+          <label htmlFor="stock" className="form-label">
+            Stock
+          </label>
           <input
             type="number"
+            id="stock"
             name="stock"
             value={formData.stock}
             onChange={handleChange}
             min="0"
             required
-            className="w-full p-2 border rounded"
+            className="form-control"
+            placeholder="0"
           />
         </div>
-        <div className="flex justify-between">
-          <button
-            type="submit"
-            disabled={loading}
-            className="bg-indigo-600 text-white p-2 rounded disabled:opacity-50 hover:bg-indigo-700"
-          >
+        <div className="d-flex justify-content-end gap-2 mt-4">
+          <button type="submit" disabled={loading} className="btn btn-primary">
             {isEdit ? "Guardar Cambios" : "Crear"}
           </button>
           <button
             type="button"
             onClick={() => navigate("/")}
-            className="bg-gray-400 text-white p-2 rounded hover:bg-gray-500"
+            className="btn btn-secondary"
           >
             Cancelar
           </button>

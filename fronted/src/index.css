@@ -1,3 +1,7 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* Importa los estilos de Bootstrap */
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+/* Estilos globales personalizados */
+body {
+  background-color: #f8f9fa; /* Un fondo gris claro similar al que tenías */
+}

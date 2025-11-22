@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\pruebaapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|c:\\users\\lenovo\\desktop\\pruebatecnica\\pruebaapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|c:\\users\\lenovo\\desktop\\pruebatecnica\\pruebaapi\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\pruebaapi\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
@@ -78,8 +78,7 @@
               "RelativeToolTip": "PruebaApi\\.dockerignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-11-20T06:23:55.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T06:23:55.676Z"
             },
             {
               "$type": "Document",
