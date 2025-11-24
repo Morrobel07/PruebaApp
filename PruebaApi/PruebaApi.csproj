@@ -249,9 +249,11 @@
     <Compile Include="Controllers\CustomerController.cs" />
     <Compile Include="Controllers\InventoryController.cs" />
     <Compile Include="Controllers\ProductController.cs" />
+    <Compile Include="Controllers\SalesController.cs" />
     <Compile Include="DTOs\CustomerDTO.cs" />
     <Compile Include="DTOs\InventoryDTO.cs" />
     <Compile Include="DTOs\ProductDTO.cs" />
+    <Compile Include="DTOs\SalesDTO.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -263,6 +265,14 @@
     <Compile Include="Migrations\202511181857100_second.Designer.cs">
       <DependentUpon>202511181857100_second.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202511240638090_Sales.cs" />
+    <Compile Include="Migrations\202511240638090_Sales.Designer.cs">
+      <DependentUpon>202511240638090_Sales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202511240653177_Sales1.cs" />
+    <Compile Include="Migrations\202511240653177_Sales1.Designer.cs">
+      <DependentUpon>202511240653177_Sales1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Contextdb.cs" />
     <Compile Include="Models\Customer.cs" />
@@ -270,6 +280,8 @@
     <Compile Include="Models\PaginInfo.cs" />
     <Compile Include="Models\Product.cs" />
     <Compile Include="Models\ProductsListViewModel.cs" />
+    <Compile Include="Models\SaleItem.cs" />
+    <Compile Include="Models\Sales.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -426,6 +438,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202511181857100_second.resx">
       <DependentUpon>202511181857100_second.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202511240638090_Sales.resx">
+      <DependentUpon>202511240638090_Sales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202511240653177_Sales1.resx">
+      <DependentUpon>202511240653177_Sales1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

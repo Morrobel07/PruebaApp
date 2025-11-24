@@ -3,92 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\pruebaapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|c:\\users\\lenovo\\desktop\\pruebatecnica\\pruebaapi\\models\\productslistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\models\\productslistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\pruebaapi\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\pruebaapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\pruebaapi\\models\\pagininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\models\\pagininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\pruebaapi\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\pruebaapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\pruebaapi\\models\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\models\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\pruebaapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\pruebaapi\\dtos\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\dtos\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\pruebaapi\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|c:\\users\\lenovo\\desktop\\pruebatecnica\\pruebaapi\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\pruebaapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\pruebaapi\\app_start\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\app_start\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\pruebaapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\pruebaapi\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|c:\\users\\lenovo\\desktop\\pruebatecnica\\pruebaapi\\models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\pruebaapi\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|c:\\users\\lenovo\\desktop\\pruebatecnica\\pruebaapi\\models\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\models\\saleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\pruebaapi\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|c:\\users\\lenovo\\desktop\\pruebatecnica\\pruebaapi\\dtos\\salesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\dtos\\salesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\pruebaapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\pruebaapi\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\pruebaapi\\migrations\\202511180524529_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\migrations\\202511180524529_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\pruebaapi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\pruebaapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\pruebaapi\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|c:\\users\\lenovo\\desktop\\pruebatecnica\\pruebaapi\\models\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0425EAB-19DC-4F6E-BD23-FF346EE3A836}|PruebaApi\\PruebaApi.csproj|solutionrelative:pruebaapi\\models\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 23,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,268 +50,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductsListViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Models\\ProductsListViewModel.cs",
-              "RelativeDocumentMoniker": "PruebaApi\\Models\\ProductsListViewModel.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Models\\ProductsListViewModel.cs",
-              "RelativeToolTip": "PruebaApi\\Models\\ProductsListViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "SalesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\DTOs\\SalesDTO.cs",
+              "RelativeDocumentMoniker": "PruebaApi\\DTOs\\SalesDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\DTOs\\SalesDTO.cs",
+              "RelativeToolTip": "PruebaApi\\DTOs\\SalesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T02:52:11.251Z",
+              "WhenOpened": "2025-11-24T06:35:29.298Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
+              "Title": "SaleItem.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Models\\SaleItem.cs",
+              "RelativeDocumentMoniker": "PruebaApi\\Models\\SaleItem.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Models\\SaleItem.cs",
+              "RelativeToolTip": "PruebaApi\\Models\\SaleItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:25:50.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "PruebaApi\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "PruebaApi\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:21:51.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Contextdb.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Models\\Contextdb.cs",
               "RelativeDocumentMoniker": "PruebaApi\\Models\\Contextdb.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Models\\Contextdb.cs",
               "RelativeToolTip": "PruebaApi\\Models\\Contextdb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T02:52:01.55Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\DTOs\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "PruebaApi\\DTOs\\ProductDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\DTOs\\ProductDTO.cs",
-              "RelativeToolTip": "PruebaApi\\DTOs\\ProductDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T02:51:57.794Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "InventoryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\DTOs\\InventoryDTO.cs",
-              "RelativeDocumentMoniker": "PruebaApi\\DTOs\\InventoryDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\DTOs\\InventoryDTO.cs",
-              "RelativeToolTip": "PruebaApi\\DTOs\\InventoryDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T02:51:56.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CustomerDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\DTOs\\CustomerDTO.cs",
-              "RelativeDocumentMoniker": "PruebaApi\\DTOs\\CustomerDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\DTOs\\CustomerDTO.cs",
-              "RelativeToolTip": "PruebaApi\\DTOs\\CustomerDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T02:51:54.514Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WebApiConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\App_Start\\WebApiConfig.cs",
-              "RelativeDocumentMoniker": "PruebaApi\\App_Start\\WebApiConfig.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\App_Start\\WebApiConfig.cs",
-              "RelativeToolTip": "PruebaApi\\App_Start\\WebApiConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T02:50:14.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SwaggerConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\App_Start\\SwaggerConfig.cs",
-              "RelativeDocumentMoniker": "PruebaApi\\App_Start\\SwaggerConfig.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\App_Start\\SwaggerConfig.cs",
-              "RelativeToolTip": "PruebaApi\\App_Start\\SwaggerConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T02:50:13.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "PruebaApi\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "PruebaApi\\App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T02:50:05.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FilterConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\App_Start\\FilterConfig.cs",
-              "RelativeDocumentMoniker": "PruebaApi\\App_Start\\FilterConfig.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\App_Start\\FilterConfig.cs",
-              "RelativeToolTip": "PruebaApi\\App_Start\\FilterConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T02:50:00.778Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BundleConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\App_Start\\BundleConfig.cs",
-              "RelativeDocumentMoniker": "PruebaApi\\App_Start\\BundleConfig.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\App_Start\\BundleConfig.cs",
-              "RelativeToolTip": "PruebaApi\\App_Start\\BundleConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T02:49:59.699Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": ".dockerignore",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\.dockerignore",
-              "RelativeDocumentMoniker": "PruebaApi\\.dockerignore",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\.dockerignore",
-              "RelativeToolTip": "PruebaApi\\.dockerignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-11-20T06:23:55.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Dockerfile",
-              "RelativeDocumentMoniker": "PruebaApi\\Dockerfile",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Dockerfile",
-              "RelativeToolTip": "PruebaApi\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-11-20T05:24:24.318Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "202511180524529_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Migrations\\202511180524529_InitialCreate.cs",
-              "RelativeDocumentMoniker": "PruebaApi\\Migrations\\202511180524529_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Migrations\\202511180524529_InitialCreate.cs",
-              "RelativeToolTip": "PruebaApi\\Migrations\\202511180524529_InitialCreate.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T05:21:34.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "PruebaApi\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Models\\Product.cs",
-              "RelativeToolTip": "PruebaApi\\Models\\Product.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T05:10:38.169Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "PruebaApi\\Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Models\\Customer.cs",
-              "RelativeToolTip": "PruebaApi\\Models\\Customer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T05:09:11.426Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Models\\Inventory.cs",
-              "RelativeDocumentMoniker": "PruebaApi\\Models\\Inventory.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Models\\Inventory.cs",
-              "RelativeToolTip": "PruebaApi\\Models\\Inventory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T03:29:18.054Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PaginInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Models\\PaginInfo.cs",
-              "RelativeDocumentMoniker": "PruebaApi\\Models\\PaginInfo.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Models\\PaginInfo.cs",
-              "RelativeToolTip": "PruebaApi\\Models\\PaginInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T03:07:51.601Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InventoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Controllers\\InventoryController.cs",
-              "RelativeDocumentMoniker": "PruebaApi\\Controllers\\InventoryController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Controllers\\InventoryController.cs",
-              "RelativeToolTip": "PruebaApi\\Controllers\\InventoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T19:23:21.605Z"
+              "WhenOpened": "2025-11-24T06:20:10.428Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Models\\Sales.cs",
+              "RelativeDocumentMoniker": "PruebaApi\\Models\\Sales.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Models\\Sales.cs",
+              "RelativeToolTip": "PruebaApi\\Models\\Sales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:19:50.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "PruebaApi\\Controllers\\CustomerController.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "PruebaApi\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAkwCsAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T19:20:05.607Z"
+              "WhenOpened": "2025-11-18T19:20:05.607Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Global.asax.cs",
-              "RelativeDocumentMoniker": "PruebaApi\\Global.asax.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Global.asax.cs",
-              "RelativeToolTip": "PruebaApi\\Global.asax.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "PruebaApi\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "PruebaApi\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T18:52:54.508Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Migrations\\Configuration.cs",
-              "RelativeDocumentMoniker": "PruebaApi\\Migrations\\Configuration.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Migrations\\Configuration.cs",
-              "RelativeToolTip": "PruebaApi\\Migrations\\Configuration.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwDIAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T18:49:40.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "PruebaApi\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\PruebaTecnica\\PruebaApi\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "PruebaApi\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAIkAAAAAAAAAAAAAAJwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T05:24:10.42Z",
+              "WhenOpened": "2025-11-22T02:50:14.751Z",
               "EditorCaption": ""
             }
           ]

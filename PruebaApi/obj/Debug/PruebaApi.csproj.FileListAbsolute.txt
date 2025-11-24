@@ -337,3 +337,5 @@ C:\Users\Lenovo\Desktop\PruebaTecnica\PruebaApi\bin\zh-Hant\MSTest.TestFramework
 C:\Users\Lenovo\Desktop\PruebaTecnica\PruebaApi\obj\Debug\PruebaApi.Migrations.InitialCreate.resources
 C:\Users\Lenovo\Desktop\PruebaTecnica\PruebaApi\obj\Debug\PruebaApi.csproj.GenerateResource.cache
 C:\Users\Lenovo\Desktop\PruebaTecnica\PruebaApi\obj\Debug\PruebaApi.Migrations.second.resources
+C:\Users\Lenovo\Desktop\PruebaTecnica\PruebaApi\obj\Debug\PruebaApi.Migrations.Sales.resources
+C:\Users\Lenovo\Desktop\PruebaTecnica\PruebaApi\obj\Debug\PruebaApi.Migrations.Sales1.resources

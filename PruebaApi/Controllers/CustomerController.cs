@@ -21,6 +21,7 @@ namespace PruebaApi.Controllers
             return Ok(customers);
         }
 
+
         [HttpGet]
         [Route("{id:int}")]
         public IHttpActionResult GetCustomer(int id)

@@ -154,8 +154,8 @@ namespace PruebaApi.Controllers
 
             product.IsActive = false;
 
-            //context.Products.Remove(product);
-            context.Entry(product).State = System.Data.Entity.EntityState.Modified;
+            context.Products.Remove(product);
+            //context.Entry(product).State = System.Data.Entity.EntityState.Modified;
             context.SaveChanges();
             return Ok(new { Message = "Producto Eliminado" });
         }

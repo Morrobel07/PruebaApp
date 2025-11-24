@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from "react";
-import { useNavigate } from "react-router-dom";
+import { useNavigate, useLocation } from "react-router-dom";
 import api from "../services/api";
 import Pagination from "../components/Pagination";
 
@@ -10,10 +10,12 @@ function ProductList() {
   const [Page, setPage] = useState(1);
   const [totalPages, setTotalPages] = useState(1);
   const navigate = useNavigate();
+  const location = useLocation(); // Hook para acceder al estado de la navegación
 
   useEffect(() => {
     fetchProducts();
-  }, [Page]);
+    // El efecto se ejecutará cuando cambie la página O cuando se reciba el estado de refresco.
+  }, [Page, location.state?.refresh]);
 
   const fetchProducts = useCallback(() => {
     setLoading(true);
@@ -31,7 +33,7 @@ function ProductList() {
       .finally(() => {
         setLoading(false);
       });
-  }, [Page]);
+  }, [Page]); // fetchProducts en sí solo necesita Page como dependencia
 
   const handleSoftDelete = (productId) => {
     api

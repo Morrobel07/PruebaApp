@@ -20,5 +20,8 @@ namespace PruebaApi.Models
         public DbSet<Customer> Customers { get; set; }
         public DbSet<Inventory> Inventory { get; set; }
 
+        public DbSet<Sale> Sales { get; set; }
+        public DbSet<SaleItem> SalesItems { get; set; }
+
     }
 }
